@@ -19,7 +19,7 @@ body{
     align-items: center;
     padding:1rem 0;
     /* border:1px solid orange; */
-    background-image: url('https://source.unsplash.com/random/1920x1080/?food');
+    /*background-image: url('https://source.unsplash.com/random/1920x1080/?food');*/
     background-blend-mode: multiply;
     background-color: rgba(55, 44, 44, 0.8);
     background-position: center;
